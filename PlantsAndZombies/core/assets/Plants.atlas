@@ -1,0 +1,108 @@
+
+Plants.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+active1
+  rotate: false
+  xy: 1, 1
+  size: 800, 600
+  orig: 800, 600
+  offset: 0, 0
+  index: -1
+
+Plants2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+active2
+  rotate: false
+  xy: 1, 1
+  size: 800, 600
+  orig: 800, 600
+  offset: 0, 0
+  index: -1
+
+Plants3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+active3
+  rotate: false
+  xy: 1, 1
+  size: 800, 600
+  orig: 800, 600
+  offset: 0, 0
+  index: -1
+
+Plants4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+active4
+  rotate: false
+  xy: 1, 1
+  size: 800, 600
+  orig: 800, 600
+  offset: 0, 0
+  index: -1
+
+Plants5.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+active5
+  rotate: false
+  xy: 1, 1
+  size: 800, 600
+  orig: 800, 600
+  offset: 0, 0
+  index: -1
+
+Plants6.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+active6
+  rotate: false
+  xy: 1, 1
+  size: 800, 600
+  orig: 800, 600
+  offset: 0, 0
+  index: -1
+
+Plants7.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+active7
+  rotate: false
+  xy: 1, 1
+  size: 800, 600
+  orig: 800, 600
+  offset: 0, 0
+  index: -1
+
+Plants8.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+active8
+  rotate: false
+  xy: 1, 1
+  size: 800, 600
+  orig: 800, 600
+  offset: 0, 0
+  index: -1
+
+Plants9.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+active9
+  rotate: false
+  xy: 1, 1
+  size: 800, 600
+  orig: 800, 600
+  offset: 0, 0
+  index: -1

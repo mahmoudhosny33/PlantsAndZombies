@@ -1,0 +1,395 @@
+
+Zombie12.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+1/tile000
+  rotate: false
+  xy: 1, 165
+  size: 40, 80
+  orig: 40, 80
+  offset: 0, 0
+  index: -1
+1/tile001
+  rotate: false
+  xy: 1, 83
+  size: 40, 80
+  orig: 40, 80
+  offset: 0, 0
+  index: -1
+1/tile002
+  rotate: false
+  xy: 1, 83
+  size: 40, 80
+  orig: 40, 80
+  offset: 0, 0
+  index: -1
+1/tile003
+  rotate: false
+  xy: 43, 165
+  size: 40, 80
+  orig: 40, 80
+  offset: 0, 0
+  index: -1
+1/tile004
+  rotate: false
+  xy: 43, 165
+  size: 40, 80
+  orig: 40, 80
+  offset: 0, 0
+  index: -1
+1/tile005
+  rotate: false
+  xy: 1, 1
+  size: 40, 80
+  orig: 40, 80
+  offset: 0, 0
+  index: -1
+1/tile006
+  rotate: false
+  xy: 1, 1
+  size: 40, 80
+  orig: 40, 80
+  offset: 0, 0
+  index: -1
+1/tile007
+  rotate: false
+  xy: 43, 83
+  size: 40, 80
+  orig: 40, 80
+  offset: 0, 0
+  index: -1
+1/tile008
+  rotate: false
+  xy: 43, 83
+  size: 40, 80
+  orig: 40, 80
+  offset: 0, 0
+  index: -1
+1/tile009
+  rotate: false
+  xy: 85, 165
+  size: 40, 80
+  orig: 40, 80
+  offset: 0, 0
+  index: -1
+1/tile010
+  rotate: false
+  xy: 85, 165
+  size: 40, 80
+  orig: 40, 80
+  offset: 0, 0
+  index: -1
+1/tile011
+  rotate: false
+  xy: 43, 1
+  size: 40, 80
+  orig: 40, 80
+  offset: 0, 0
+  index: -1
+1/tile012
+  rotate: false
+  xy: 43, 1
+  size: 40, 80
+  orig: 40, 80
+  offset: 0, 0
+  index: -1
+1/tile013
+  rotate: false
+  xy: 85, 83
+  size: 40, 80
+  orig: 40, 80
+  offset: 0, 0
+  index: -1
+1/tile014
+  rotate: false
+  xy: 85, 83
+  size: 40, 80
+  orig: 40, 80
+  offset: 0, 0
+  index: -1
+1/tile015
+  rotate: false
+  xy: 127, 165
+  size: 40, 80
+  orig: 40, 80
+  offset: 0, 0
+  index: -1
+1/tile016
+  rotate: false
+  xy: 127, 165
+  size: 40, 80
+  orig: 40, 80
+  offset: 0, 0
+  index: -1
+1/tile017
+  rotate: false
+  xy: 85, 1
+  size: 40, 80
+  orig: 40, 80
+  offset: 0, 0
+  index: -1
+1/tile018
+  rotate: false
+  xy: 85, 1
+  size: 40, 80
+  orig: 40, 80
+  offset: 0, 0
+  index: -1
+1/tile019
+  rotate: false
+  xy: 127, 83
+  size: 40, 80
+  orig: 40, 80
+  offset: 0, 0
+  index: -1
+1/tile020
+  rotate: false
+  xy: 127, 83
+  size: 40, 80
+  orig: 40, 80
+  offset: 0, 0
+  index: -1
+1/tile021
+  rotate: false
+  xy: 169, 165
+  size: 40, 80
+  orig: 40, 80
+  offset: 0, 0
+  index: -1
+1/tile022
+  rotate: false
+  xy: 169, 165
+  size: 40, 80
+  orig: 40, 80
+  offset: 0, 0
+  index: -1
+1/tile023
+  rotate: false
+  xy: 127, 1
+  size: 40, 80
+  orig: 40, 80
+  offset: 0, 0
+  index: -1
+1/tile024
+  rotate: false
+  xy: 127, 1
+  size: 40, 80
+  orig: 40, 80
+  offset: 0, 0
+  index: -1
+1/tile025
+  rotate: false
+  xy: 169, 83
+  size: 40, 80
+  orig: 40, 80
+  offset: 0, 0
+  index: -1
+1/tile026
+  rotate: false
+  xy: 169, 83
+  size: 40, 80
+  orig: 40, 80
+  offset: 0, 0
+  index: -1
+1/tile027
+  rotate: false
+  xy: 211, 165
+  size: 40, 80
+  orig: 40, 80
+  offset: 0, 0
+  index: -1
+1/tile028
+  rotate: false
+  xy: 211, 165
+  size: 40, 80
+  orig: 40, 80
+  offset: 0, 0
+  index: -1
+1/tile029
+  rotate: false
+  xy: 169, 1
+  size: 40, 80
+  orig: 40, 80
+  offset: 0, 0
+  index: -1
+1/tile030
+  rotate: false
+  xy: 169, 1
+  size: 40, 80
+  orig: 40, 80
+  offset: 0, 0
+  index: -1
+1/tile031
+  rotate: false
+  xy: 211, 83
+  size: 40, 80
+  orig: 40, 80
+  offset: 0, 0
+  index: -1
+1/tile032
+  rotate: false
+  xy: 211, 83
+  size: 40, 80
+  orig: 40, 80
+  offset: 0, 0
+  index: -1
+1/tile033
+  rotate: false
+  xy: 253, 165
+  size: 40, 80
+  orig: 40, 80
+  offset: 0, 0
+  index: -1
+1/tile034
+  rotate: false
+  xy: 253, 165
+  size: 40, 80
+  orig: 40, 80
+  offset: 0, 0
+  index: -1
+1/tile035
+  rotate: false
+  xy: 211, 1
+  size: 40, 80
+  orig: 40, 80
+  offset: 0, 0
+  index: -1
+1/tile036
+  rotate: false
+  xy: 211, 1
+  size: 40, 80
+  orig: 40, 80
+  offset: 0, 0
+  index: -1
+1/tile037
+  rotate: false
+  xy: 253, 83
+  size: 40, 80
+  orig: 40, 80
+  offset: 0, 0
+  index: -1
+1/tile038
+  rotate: false
+  xy: 253, 83
+  size: 40, 80
+  orig: 40, 80
+  offset: 0, 0
+  index: -1
+1/tile039
+  rotate: false
+  xy: 295, 165
+  size: 40, 80
+  orig: 40, 80
+  offset: 0, 0
+  index: -1
+1/tile040
+  rotate: false
+  xy: 295, 165
+  size: 40, 80
+  orig: 40, 80
+  offset: 0, 0
+  index: -1
+1/tile041
+  rotate: false
+  xy: 253, 1
+  size: 40, 80
+  orig: 40, 80
+  offset: 0, 0
+  index: -1
+1/tile042
+  rotate: false
+  xy: 253, 1
+  size: 40, 80
+  orig: 40, 80
+  offset: 0, 0
+  index: -1
+1/tile043
+  rotate: false
+  xy: 295, 83
+  size: 40, 80
+  orig: 40, 80
+  offset: 0, 0
+  index: -1
+1/tile044
+  rotate: false
+  xy: 295, 83
+  size: 40, 80
+  orig: 40, 80
+  offset: 0, 0
+  index: -1
+1/tile045
+  rotate: false
+  xy: 337, 165
+  size: 40, 80
+  orig: 40, 80
+  offset: 0, 0
+  index: -1
+1/tile046
+  rotate: false
+  xy: 337, 165
+  size: 40, 80
+  orig: 40, 80
+  offset: 0, 0
+  index: -1
+1/tile047
+  rotate: false
+  xy: 295, 1
+  size: 40, 80
+  orig: 40, 80
+  offset: 0, 0
+  index: -1
+1/tile048
+  rotate: false
+  xy: 295, 1
+  size: 40, 80
+  orig: 40, 80
+  offset: 0, 0
+  index: -1
+1/tile049
+  rotate: false
+  xy: 337, 83
+  size: 40, 80
+  orig: 40, 80
+  offset: 0, 0
+  index: -1
+1/tile050
+  rotate: false
+  xy: 337, 83
+  size: 40, 80
+  orig: 40, 80
+  offset: 0, 0
+  index: -1
+1/tile051
+  rotate: false
+  xy: 379, 165
+  size: 40, 80
+  orig: 40, 80
+  offset: 0, 0
+  index: -1
+1/tile052
+  rotate: false
+  xy: 379, 165
+  size: 40, 80
+  orig: 40, 80
+  offset: 0, 0
+  index: -1
+1/tile053
+  rotate: false
+  xy: 337, 1
+  size: 40, 80
+  orig: 40, 80
+  offset: 0, 0
+  index: -1
+
+Zombie13.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+zombie1
+  rotate: false
+  xy: 1, 1
+  size: 240, 720
+  orig: 240, 720
+  offset: 0, 0
+  index: -1

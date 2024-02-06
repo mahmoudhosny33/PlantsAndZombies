@@ -1,0 +1,180 @@
+
+pong.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+tile000
+  rotate: false
+  xy: 1, 149
+  size: 70, 72
+  orig: 70, 72
+  offset: 0, 0
+  index: -1
+tile001
+  rotate: false
+  xy: 1, 75
+  size: 70, 72
+  orig: 70, 72
+  offset: 0, 0
+  index: -1
+tile002
+  rotate: false
+  xy: 73, 149
+  size: 70, 72
+  orig: 70, 72
+  offset: 0, 0
+  index: -1
+tile003
+  rotate: false
+  xy: 1, 1
+  size: 70, 72
+  orig: 70, 72
+  offset: 0, 0
+  index: -1
+tile004
+  rotate: false
+  xy: 73, 75
+  size: 70, 72
+  orig: 70, 72
+  offset: 0, 0
+  index: -1
+tile016
+  rotate: false
+  xy: 73, 75
+  size: 70, 72
+  orig: 70, 72
+  offset: 0, 0
+  index: -1
+tile005
+  rotate: false
+  xy: 145, 149
+  size: 70, 72
+  orig: 70, 72
+  offset: 0, 0
+  index: -1
+tile017
+  rotate: false
+  xy: 145, 149
+  size: 70, 72
+  orig: 70, 72
+  offset: 0, 0
+  index: -1
+tile006
+  rotate: false
+  xy: 73, 1
+  size: 70, 72
+  orig: 70, 72
+  offset: 0, 0
+  index: -1
+tile007
+  rotate: false
+  xy: 145, 75
+  size: 70, 72
+  orig: 70, 72
+  offset: 0, 0
+  index: -1
+tile019
+  rotate: false
+  xy: 145, 75
+  size: 70, 72
+  orig: 70, 72
+  offset: 0, 0
+  index: -1
+tile008
+  rotate: false
+  xy: 217, 149
+  size: 70, 72
+  orig: 70, 72
+  offset: 0, 0
+  index: -1
+tile009
+  rotate: false
+  xy: 145, 1
+  size: 70, 72
+  orig: 70, 72
+  offset: 0, 0
+  index: -1
+tile021
+  rotate: false
+  xy: 145, 1
+  size: 70, 72
+  orig: 70, 72
+  offset: 0, 0
+  index: -1
+tile010
+  rotate: false
+  xy: 217, 75
+  size: 70, 72
+  orig: 70, 72
+  offset: 0, 0
+  index: -1
+tile022
+  rotate: false
+  xy: 217, 75
+  size: 70, 72
+  orig: 70, 72
+  offset: 0, 0
+  index: -1
+tile011
+  rotate: false
+  xy: 289, 149
+  size: 70, 72
+  orig: 70, 72
+  offset: 0, 0
+  index: -1
+tile023
+  rotate: false
+  xy: 289, 149
+  size: 70, 72
+  orig: 70, 72
+  offset: 0, 0
+  index: -1
+tile012
+  rotate: false
+  xy: 217, 1
+  size: 70, 72
+  orig: 70, 72
+  offset: 0, 0
+  index: -1
+tile013
+  rotate: false
+  xy: 289, 75
+  size: 70, 72
+  orig: 70, 72
+  offset: 0, 0
+  index: -1
+tile014
+  rotate: false
+  xy: 361, 149
+  size: 70, 72
+  orig: 70, 72
+  offset: 0, 0
+  index: -1
+tile015
+  rotate: false
+  xy: 289, 1
+  size: 70, 72
+  orig: 70, 72
+  offset: 0, 0
+  index: -1
+tile018
+  rotate: false
+  xy: 361, 75
+  size: 70, 72
+  orig: 70, 72
+  offset: 0, 0
+  index: -1
+tile020
+  rotate: false
+  xy: 433, 149
+  size: 70, 72
+  orig: 70, 72
+  offset: 0, 0
+  index: -1
+tile024
+  rotate: false
+  xy: 361, 1
+  size: 70, 72
+  orig: 70, 72
+  offset: 0, 0
+  index: -1
